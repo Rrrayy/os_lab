@@ -1,0 +1,5 @@
+{"editor.tabSize": 4,"editor.insertSpaces": false,"editor.detectIndentation": false,"editor.renderWhitespace":
+  "all","files.encoding": "utf8","files.eol": "\n","C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab:
+  Always, IndentWidth: 4, BreakBeforeBraces: Attach, ColumnLimit: 0, AllowShortFunctionsOnASingleLine: None
+  }","C_Cpp.default.cppStandard": "c++17","C_Cpp.default.compilerPath": "/usr/bin/g++","C_Cpp.errorSquiggles":
+  "Enabled"}
